@@ -5,26 +5,26 @@
  https://andalpezzo.github.io/TA29-Tablas-Div/deportes/donde2.html
  https://andalpezzo.github.io/TA29-Tablas-Div/deportes/instalaciones.html
  
- ###TA29-Ejercicio13
+ ### Ejercicio 13
  https://andalpezzo.github.io/TA29-Tablas-Div/Ejercicio13
 
- ###TA29-Ejercicio14
+ ### Ejercicio 14
  https://andalpezzo.github.io/TA29-Tablas-Div/Ejercicio14
  
- ###TA29-Ejercicio15
+ ### Ejercicio 15
  https://andalpezzo.github.io/TA29-Tablas-Div/Ejercicio15
  
- ###TA29-Ejercicio16
+ ### Ejercicio 16
  https://andalpezzo.github.io/TA29-Tablas-Div/Ejercicio16
  
- ###TA29-Ejercicio17
+ ### Ejercicio 17
  https://andalpezzo.github.io/TA29-Tablas-Div/Ejercicio17
  
- ###TA29-Ejercicio18
+ ### Ejercicio 18
  https://andalpezzo.github.io/TA29-Tablas-Div/Ejercicio18
  
- ###TA29-Ejercicio19
+ ### Ejercicio 19
  https://andalpezzo.github.io/TA29-Tablas-Div/Ejercicio19
  
- ###TA29-Ejercicio20
-  https://andalpezzo.github.io/TA29-Tablas-Div/Ejercicio20
+ ### Ejercicio 20
+ https://andalpezzo.github.io/TA29-Tablas-Div/Ejercicio20
