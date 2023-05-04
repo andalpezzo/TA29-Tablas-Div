@@ -1,8 +1,8 @@
 # TA29-Tablas-Div
  
  ### Deportes
- https://andalpezzo.github.io/TA29-Tablas-Div/deportes/\
- https://andalpezzo.github.io/TA29-Tablas-Div/deportes/donde2.html\
+ https://andalpezzo.github.io/TA29-Tablas-Div/deportes/<br />
+ https://andalpezzo.github.io/TA29-Tablas-Div/deportes/donde2.html<br />
  https://andalpezzo.github.io/TA29-Tablas-Div/deportes/instalaciones.html
  
  ### Ejercicio 13
