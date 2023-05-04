@@ -1,0 +1,20 @@
+div {
+    background: url(../assets/f01.png) left bottom repeat-x,
+    url(../assets/f02.png) left bottom no-repeat,
+    url(../assets/f03.png) left top repeat-x;
+    background-color: #a4d3ff;
+}
+
+.divAzul {
+    width: 225px;
+    height: 100px;
+    border: 2px solid blue;
+    margin: 20px;
+}
+
+.divRojo {
+    width: 450px;
+    height: 300px;
+    border: 3px solid red;
+    margin-left: 35px;
+}

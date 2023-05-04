@@ -1,0 +1,30 @@
+body {
+    background-image: url("../assets/pinguinos.jpg");
+    background-size: initial;
+    background-position: top;
+    background-repeat: no-repeat;
+    height: 75vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+}
+
+th {
+    font-weight: bold;
+    background-color: white;
+}
+
+.filaAmarilla {
+    background-color: #fdfd9a;
+}
+
+td, th {
+    border-width: 4px;
+    border-color: lightgray;
+    text-align: center;
+}

@@ -1,0 +1,21 @@
+table {
+    border-color: #289fca;
+}
+
+.titulo {
+    background-color:#003333;
+    color: #ccffcc;
+    font-weight: bold;
+    text-align: center;
+}
+tr {
+    background-color:#ccffcc;
+}
+
+.fila2, .fila3 {
+    background-color:#99cc99;
+}
+
+.tarifa {
+    text-align: center;
+}

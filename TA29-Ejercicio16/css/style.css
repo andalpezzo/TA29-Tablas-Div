@@ -1,0 +1,26 @@
+table {
+    color: #993020;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-image: url("../assets/patas.jpg");
+    background-repeat: repeat;
+}
+
+th, td {
+    font-weight: normal;
+    border-width: 2px;
+    border-color: grey;
+    border-style: inset;
+}
+
+th {
+    background-color: #669966;
+}
+
+.celdaNaranja {
+    background-color: #ffcc99;
+}
+
+.celdaAmarilla {
+    background-color: #ffff99;
+}
